@@ -60,12 +60,9 @@ All these variations match the regexp `"\\(.*\\) \\[\\(.*\\)\\] /\\(.*\\)/"`.
 
 ## Getting Dictionaries
 
-If you are looking for dictionary files, here is the master archive in
-Australia, including links to some US mirrors. The original site is
-often overloaded, so I've added the finland mirror as well.
+If you are looking for dictionary files, you might want to start here:
 
-* ftp://ftp.cc.monash.edu.au/pub/nihongo/00INDEX.html
-* ftp://ftp.funet.fi/pub/culture/japan/mirrors/monash/pub/nihongo/
+* http://ftp.monash.edu.au/pub/nihongo/00INDEX.html
 
 Examples:
 
